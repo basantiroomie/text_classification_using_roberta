@@ -12,6 +12,12 @@ This project involves training a Roberta model for sequence classification on a 
 - Training the Model: Setting up training arguments with early stopping.
 - Evaluation: Generating predictions on the test set and producing a classification report.
 
+## Usage
+Run the script sequentially, ensuring each section is executed for data preparation, model training, and evaluation. The trained model will be saved in the modelsroberta/ directory.
+
+## Results
+The results from the model's predictions will be displayed in the form of a classification report, which provides insights into the model’s performance.
+
 ## Requirements
 
 To run the code, ensure the following packages are installed:
